@@ -1,0 +1,6 @@
+{
+  "name": "Feather Atlas",
+  "description": "An interactive 3D bird field guide featuring the Hoopoe and Kingfisher with real-time WebGL rendering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
